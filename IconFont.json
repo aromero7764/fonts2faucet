@@ -1,0 +1,1587 @@
+[
+    {
+        "name": "3d_rotation",
+        "className": "3d_rotation",
+        "unicode": "e900"
+    },
+    {
+        "name": "accessibility",
+        "className": "accessibility",
+        "unicode": "e901"
+    },
+    {
+        "name": "accessibility_new",
+        "className": "accessibility_new",
+        "unicode": "e902"
+    },
+    {
+        "name": "accessible",
+        "className": "accessible",
+        "unicode": "e903"
+    },
+    {
+        "name": "accessible_forward",
+        "className": "accessible_forward",
+        "unicode": "e904"
+    },
+    {
+        "name": "account_balance",
+        "className": "account_balance",
+        "unicode": "e905"
+    },
+    {
+        "name": "account_balance_wallet",
+        "className": "account_balance_wallet",
+        "unicode": "e906"
+    },
+    {
+        "name": "account_box",
+        "className": "account_box",
+        "unicode": "e907"
+    },
+    {
+        "name": "account_circle",
+        "className": "account_circle",
+        "unicode": "e908"
+    },
+    {
+        "name": "addchart",
+        "className": "addchart",
+        "unicode": "e909"
+    },
+    {
+        "name": "add_shopping_cart",
+        "className": "add_shopping_cart",
+        "unicode": "e90a"
+    },
+    {
+        "name": "add_task",
+        "className": "add_task",
+        "unicode": "e90b"
+    },
+    {
+        "name": "admin_panel_settings",
+        "className": "admin_panel_settings",
+        "unicode": "e90c"
+    },
+    {
+        "name": "alarm",
+        "className": "alarm",
+        "unicode": "e90d"
+    },
+    {
+        "name": "alarm_add",
+        "className": "alarm_add",
+        "unicode": "e90e"
+    },
+    {
+        "name": "alarm_off",
+        "className": "alarm_off",
+        "unicode": "e90f"
+    },
+    {
+        "name": "alarm_on",
+        "className": "alarm_on",
+        "unicode": "e910"
+    },
+    {
+        "name": "all_inbox",
+        "className": "all_inbox",
+        "unicode": "e911"
+    },
+    {
+        "name": "all_out",
+        "className": "all_out",
+        "unicode": "e912"
+    },
+    {
+        "name": "analytics",
+        "className": "analytics",
+        "unicode": "e913"
+    },
+    {
+        "name": "anchor",
+        "className": "anchor",
+        "unicode": "e914"
+    },
+    {
+        "name": "android",
+        "className": "android",
+        "unicode": "e915"
+    },
+    {
+        "name": "announcement",
+        "className": "announcement",
+        "unicode": "e916"
+    },
+    {
+        "name": "api",
+        "className": "api",
+        "unicode": "e917"
+    },
+    {
+        "name": "app_blocking",
+        "className": "app_blocking",
+        "unicode": "e918"
+    },
+    {
+        "name": "arrow_circle_down",
+        "className": "arrow_circle_down",
+        "unicode": "e919"
+    },
+    {
+        "name": "arrow_circle_up",
+        "className": "arrow_circle_up",
+        "unicode": "e91a"
+    },
+    {
+        "name": "arrow_right_alt",
+        "className": "arrow_right_alt",
+        "unicode": "e91b"
+    },
+    {
+        "name": "article",
+        "className": "article",
+        "unicode": "e91c"
+    },
+    {
+        "name": "aspect_ratio",
+        "className": "aspect_ratio",
+        "unicode": "e91d"
+    },
+    {
+        "name": "assessment",
+        "className": "assessment",
+        "unicode": "e91e"
+    },
+    {
+        "name": "assignment",
+        "className": "assignment",
+        "unicode": "e91f"
+    },
+    {
+        "name": "assignment_ind",
+        "className": "assignment_ind",
+        "unicode": "e920"
+    },
+    {
+        "name": "assignment_late",
+        "className": "assignment_late",
+        "unicode": "e921"
+    },
+    {
+        "name": "assignment_return",
+        "className": "assignment_return",
+        "unicode": "e922"
+    },
+    {
+        "name": "assignment_returned",
+        "className": "assignment_returned",
+        "unicode": "e923"
+    },
+    {
+        "name": "assignment_turned_in",
+        "className": "assignment_turned_in",
+        "unicode": "e924"
+    },
+    {
+        "name": "autorenew",
+        "className": "autorenew",
+        "unicode": "e925"
+    },
+    {
+        "name": "backup",
+        "className": "backup",
+        "unicode": "e926"
+    },
+    {
+        "name": "backup_table",
+        "className": "backup_table",
+        "unicode": "e927"
+    },
+    {
+        "name": "batch_prediction",
+        "className": "batch_prediction",
+        "unicode": "e928"
+    },
+    {
+        "name": "book",
+        "className": "book",
+        "unicode": "e929"
+    },
+    {
+        "name": "bookmark",
+        "className": "bookmark",
+        "unicode": "e92a"
+    },
+    {
+        "name": "bookmarks",
+        "className": "bookmarks",
+        "unicode": "e92b"
+    },
+    {
+        "name": "bookmark_border",
+        "className": "bookmark_border",
+        "unicode": "e92c"
+    },
+    {
+        "name": "book_online",
+        "className": "book_online",
+        "unicode": "e92d"
+    },
+    {
+        "name": "bug_report",
+        "className": "bug_report",
+        "unicode": "e92e"
+    },
+    {
+        "name": "build",
+        "className": "build",
+        "unicode": "e92f"
+    },
+    {
+        "name": "build_circle",
+        "className": "build_circle",
+        "unicode": "e930"
+    },
+    {
+        "name": "cached",
+        "className": "cached",
+        "unicode": "e931"
+    },
+    {
+        "name": "calendar_today",
+        "className": "calendar_today",
+        "unicode": "e932"
+    },
+    {
+        "name": "calendar_view_day",
+        "className": "calendar_view_day",
+        "unicode": "e933"
+    },
+    {
+        "name": "camera_enhance",
+        "className": "camera_enhance",
+        "unicode": "e934"
+    },
+    {
+        "name": "cancel_schedule_send",
+        "className": "cancel_schedule_send",
+        "unicode": "e935"
+    },
+    {
+        "name": "card_giftcard",
+        "className": "card_giftcard",
+        "unicode": "e936"
+    },
+    {
+        "name": "card_membership",
+        "className": "card_membership",
+        "unicode": "e937"
+    },
+    {
+        "name": "card_travel",
+        "className": "card_travel",
+        "unicode": "e938"
+    },
+    {
+        "name": "change_history",
+        "className": "change_history",
+        "unicode": "e939"
+    },
+    {
+        "name": "check_circle",
+        "className": "check_circle",
+        "unicode": "e93a"
+    },
+    {
+        "name": "check_circle_outline",
+        "className": "check_circle_outline",
+        "unicode": "e93b"
+    },
+    {
+        "name": "chrome_reader_mode",
+        "className": "chrome_reader_mode",
+        "unicode": "e93c"
+    },
+    {
+        "name": "class",
+        "className": "class",
+        "unicode": "e93d"
+    },
+    {
+        "name": "close_fullscreen",
+        "className": "close_fullscreen",
+        "unicode": "e93e"
+    },
+    {
+        "name": "code",
+        "className": "code",
+        "unicode": "e93f"
+    },
+    {
+        "name": "comment_bank",
+        "className": "comment_bank",
+        "unicode": "e940"
+    },
+    {
+        "name": "commute",
+        "className": "commute",
+        "unicode": "e941"
+    },
+    {
+        "name": "compare_arrows",
+        "className": "compare_arrows",
+        "unicode": "e942"
+    },
+    {
+        "name": "contactless",
+        "className": "contactless",
+        "unicode": "e943"
+    },
+    {
+        "name": "contact_page",
+        "className": "contact_page",
+        "unicode": "e944"
+    },
+    {
+        "name": "contact_support",
+        "className": "contact_support",
+        "unicode": "e945"
+    },
+    {
+        "name": "copyright",
+        "className": "copyright",
+        "unicode": "e946"
+    },
+    {
+        "name": "credit_card",
+        "className": "credit_card",
+        "unicode": "e947"
+    },
+    {
+        "name": "dashboard",
+        "className": "dashboard",
+        "unicode": "e948"
+    },
+    {
+        "name": "date_range",
+        "className": "date_range",
+        "unicode": "e949"
+    },
+    {
+        "name": "delete",
+        "className": "delete",
+        "unicode": "e94a"
+    },
+    {
+        "name": "delete_forever",
+        "className": "delete_forever",
+        "unicode": "e94b"
+    },
+    {
+        "name": "delete_outline",
+        "className": "delete_outline",
+        "unicode": "e94c"
+    },
+    {
+        "name": "description",
+        "className": "description",
+        "unicode": "e94d"
+    },
+    {
+        "name": "disabled_by_default",
+        "className": "disabled_by_default",
+        "unicode": "e94e"
+    },
+    {
+        "name": "dns",
+        "className": "dns",
+        "unicode": "e94f"
+    },
+    {
+        "name": "done",
+        "className": "done",
+        "unicode": "e950"
+    },
+    {
+        "name": "done_all",
+        "className": "done_all",
+        "unicode": "e951"
+    },
+    {
+        "name": "done_outline",
+        "className": "done_outline",
+        "unicode": "e952"
+    },
+    {
+        "name": "donut_large",
+        "className": "donut_large",
+        "unicode": "e953"
+    },
+    {
+        "name": "donut_small",
+        "className": "donut_small",
+        "unicode": "e954"
+    },
+    {
+        "name": "drag_indicator",
+        "className": "drag_indicator",
+        "unicode": "e955"
+    },
+    {
+        "name": "dynamic_form",
+        "className": "dynamic_form",
+        "unicode": "e956"
+    },
+    {
+        "name": "eco",
+        "className": "eco",
+        "unicode": "e957"
+    },
+    {
+        "name": "eject",
+        "className": "eject",
+        "unicode": "e958"
+    },
+    {
+        "name": "euro_symbol",
+        "className": "euro_symbol",
+        "unicode": "e959"
+    },
+    {
+        "name": "event",
+        "className": "event",
+        "unicode": "e95a"
+    },
+    {
+        "name": "event_seat",
+        "className": "event_seat",
+        "unicode": "e95b"
+    },
+    {
+        "name": "exit_to_app",
+        "className": "exit_to_app",
+        "unicode": "e95c"
+    },
+    {
+        "name": "explore",
+        "className": "explore",
+        "unicode": "e95d"
+    },
+    {
+        "name": "explore_off",
+        "className": "explore_off",
+        "unicode": "e95e"
+    },
+    {
+        "name": "extension",
+        "className": "extension",
+        "unicode": "e95f"
+    },
+    {
+        "name": "face",
+        "className": "face",
+        "unicode": "e960"
+    },
+    {
+        "name": "face_unlock",
+        "className": "face_unlock",
+        "unicode": "e961"
+    },
+    {
+        "name": "fact_check",
+        "className": "fact_check",
+        "unicode": "e962"
+    },
+    {
+        "name": "favorite",
+        "className": "favorite",
+        "unicode": "e963"
+    },
+    {
+        "name": "favorite_border",
+        "className": "favorite_border",
+        "unicode": "e964"
+    },
+    {
+        "name": "feedback",
+        "className": "feedback",
+        "unicode": "e965"
+    },
+    {
+        "name": "filter_alt",
+        "className": "filter_alt",
+        "unicode": "e966"
+    },
+    {
+        "name": "find_in_page",
+        "className": "find_in_page",
+        "unicode": "e967"
+    },
+    {
+        "name": "find_replace",
+        "className": "find_replace",
+        "unicode": "e968"
+    },
+    {
+        "name": "fingerprint",
+        "className": "fingerprint",
+        "unicode": "e969"
+    },
+    {
+        "name": "flaky",
+        "className": "flaky",
+        "unicode": "e96a"
+    },
+    {
+        "name": "flight_land",
+        "className": "flight_land",
+        "unicode": "e96b"
+    },
+    {
+        "name": "flight_takeoff",
+        "className": "flight_takeoff",
+        "unicode": "e96c"
+    },
+    {
+        "name": "flip_to_back",
+        "className": "flip_to_back",
+        "unicode": "e96d"
+    },
+    {
+        "name": "flip_to_front",
+        "className": "flip_to_front",
+        "unicode": "e96e"
+    },
+    {
+        "name": "gavel",
+        "className": "gavel",
+        "unicode": "e96f"
+    },
+    {
+        "name": "get_app",
+        "className": "get_app",
+        "unicode": "e970"
+    },
+    {
+        "name": "gif",
+        "className": "gif",
+        "unicode": "e971"
+    },
+    {
+        "name": "grade",
+        "className": "grade",
+        "unicode": "e972"
+    },
+    {
+        "name": "grading",
+        "className": "grading",
+        "unicode": "e973"
+    },
+    {
+        "name": "group_work",
+        "className": "group_work",
+        "unicode": "e974"
+    },
+    {
+        "name": "g_translate",
+        "className": "g_translate",
+        "unicode": "e975"
+    },
+    {
+        "name": "help",
+        "className": "help",
+        "unicode": "e976"
+    },
+    {
+        "name": "help_center",
+        "className": "help_center",
+        "unicode": "e977"
+    },
+    {
+        "name": "help_outline",
+        "className": "help_outline",
+        "unicode": "e978"
+    },
+    {
+        "name": "highlight_alt",
+        "className": "highlight_alt",
+        "unicode": "e979"
+    },
+    {
+        "name": "highlight_off",
+        "className": "highlight_off",
+        "unicode": "e97a"
+    },
+    {
+        "name": "history",
+        "className": "history",
+        "unicode": "e97b"
+    },
+    {
+        "name": "history_toggle_off",
+        "className": "history_toggle_off",
+        "unicode": "e97c"
+    },
+    {
+        "name": "home",
+        "className": "home",
+        "unicode": "e97d"
+    },
+    {
+        "name": "horizontal_split",
+        "className": "horizontal_split",
+        "unicode": "e97e"
+    },
+    {
+        "name": "hourglass_disabled",
+        "className": "hourglass_disabled",
+        "unicode": "e97f"
+    },
+    {
+        "name": "hourglass_empty",
+        "className": "hourglass_empty",
+        "unicode": "e980"
+    },
+    {
+        "name": "hourglass_full",
+        "className": "hourglass_full",
+        "unicode": "e981"
+    },
+    {
+        "name": "http",
+        "className": "http",
+        "unicode": "e982"
+    },
+    {
+        "name": "https",
+        "className": "https",
+        "unicode": "e983"
+    },
+    {
+        "name": "important_devices",
+        "className": "important_devices",
+        "unicode": "e984"
+    },
+    {
+        "name": "info",
+        "className": "info",
+        "unicode": "e985"
+    },
+    {
+        "name": "info_outline",
+        "className": "info_outline",
+        "unicode": "e986"
+    },
+    {
+        "name": "input",
+        "className": "input",
+        "unicode": "e987"
+    },
+    {
+        "name": "integration_instructions",
+        "className": "integration_instructions",
+        "unicode": "e988"
+    },
+    {
+        "name": "invert_colors",
+        "className": "invert_colors",
+        "unicode": "e989"
+    },
+    {
+        "name": "label",
+        "className": "label",
+        "unicode": "e98a"
+    },
+    {
+        "name": "label_important",
+        "className": "label_important",
+        "unicode": "e98b"
+    },
+    {
+        "name": "label_important_outline",
+        "className": "label_important_outline",
+        "unicode": "e98c"
+    },
+    {
+        "name": "label_off",
+        "className": "label_off",
+        "unicode": "e98d"
+    },
+    {
+        "name": "label_outline",
+        "className": "label_outline",
+        "unicode": "e98e"
+    },
+    {
+        "name": "language",
+        "className": "language",
+        "unicode": "e98f"
+    },
+    {
+        "name": "launch",
+        "className": "launch",
+        "unicode": "e990"
+    },
+    {
+        "name": "leaderboard",
+        "className": "leaderboard",
+        "unicode": "e991"
+    },
+    {
+        "name": "lightbulb_outline",
+        "className": "lightbulb_outline",
+        "unicode": "e992"
+    },
+    {
+        "name": "line_style",
+        "className": "line_style",
+        "unicode": "e993"
+    },
+    {
+        "name": "line_weight",
+        "className": "line_weight",
+        "unicode": "e994"
+    },
+    {
+        "name": "list",
+        "className": "list",
+        "unicode": "e995"
+    },
+    {
+        "name": "lock",
+        "className": "lock",
+        "unicode": "e996"
+    },
+    {
+        "name": "lock_open",
+        "className": "lock_open",
+        "unicode": "e997"
+    },
+    {
+        "name": "lock_outline",
+        "className": "lock_outline",
+        "unicode": "e998"
+    },
+    {
+        "name": "login",
+        "className": "login",
+        "unicode": "e999"
+    },
+    {
+        "name": "loyalty",
+        "className": "loyalty",
+        "unicode": "e99a"
+    },
+    {
+        "name": "markunread_mailbox",
+        "className": "markunread_mailbox",
+        "unicode": "e99b"
+    },
+    {
+        "name": "maximize",
+        "className": "maximize",
+        "unicode": "e99c"
+    },
+    {
+        "name": "mediation",
+        "className": "mediation",
+        "unicode": "e99d"
+    },
+    {
+        "name": "minimize",
+        "className": "minimize",
+        "unicode": "e99e"
+    },
+    {
+        "name": "model_training",
+        "className": "model_training",
+        "unicode": "e99f"
+    },
+    {
+        "name": "next_plan",
+        "className": "next_plan",
+        "unicode": "e9a0"
+    },
+    {
+        "name": "note_add",
+        "className": "note_add",
+        "unicode": "e9a1"
+    },
+    {
+        "name": "not_accessible",
+        "className": "not_accessible",
+        "unicode": "e9a2"
+    },
+    {
+        "name": "not_started",
+        "className": "not_started",
+        "unicode": "e9a3"
+    },
+    {
+        "name": "offline_bolt",
+        "className": "offline_bolt",
+        "unicode": "e9a4"
+    },
+    {
+        "name": "offline_pin",
+        "className": "offline_pin",
+        "unicode": "e9a5"
+    },
+    {
+        "name": "online_prediction",
+        "className": "online_prediction",
+        "unicode": "e9a6"
+    },
+    {
+        "name": "opacity",
+        "className": "opacity",
+        "unicode": "e9a7"
+    },
+    {
+        "name": "open_in_browser",
+        "className": "open_in_browser",
+        "unicode": "e9a8"
+    },
+    {
+        "name": "open_in_full",
+        "className": "open_in_full",
+        "unicode": "e9a9"
+    },
+    {
+        "name": "open_in_new",
+        "className": "open_in_new",
+        "unicode": "e9aa"
+    },
+    {
+        "name": "open_with",
+        "className": "open_with",
+        "unicode": "e9ab"
+    },
+    {
+        "name": "outbond",
+        "className": "outbond",
+        "unicode": "e9ac"
+    },
+    {
+        "name": "outlet",
+        "className": "outlet",
+        "unicode": "e9ad"
+    },
+    {
+        "name": "pageview",
+        "className": "pageview",
+        "unicode": "e9ae"
+    },
+    {
+        "name": "pan_tool",
+        "className": "pan_tool",
+        "unicode": "e9af"
+    },
+    {
+        "name": "payment",
+        "className": "payment",
+        "unicode": "e9b0"
+    },
+    {
+        "name": "pending",
+        "className": "pending",
+        "unicode": "e9b1"
+    },
+    {
+        "name": "pending_actions",
+        "className": "pending_actions",
+        "unicode": "e9b2"
+    },
+    {
+        "name": "perm_camera_mic",
+        "className": "perm_camera_mic",
+        "unicode": "e9b3"
+    },
+    {
+        "name": "perm_contact_calendar",
+        "className": "perm_contact_calendar",
+        "unicode": "e9b4"
+    },
+    {
+        "name": "perm_data_setting",
+        "className": "perm_data_setting",
+        "unicode": "e9b5"
+    },
+    {
+        "name": "perm_device_information",
+        "className": "perm_device_information",
+        "unicode": "e9b6"
+    },
+    {
+        "name": "perm_identity",
+        "className": "perm_identity",
+        "unicode": "e9b7"
+    },
+    {
+        "name": "perm_media",
+        "className": "perm_media",
+        "unicode": "e9b8"
+    },
+    {
+        "name": "perm_phone_msg",
+        "className": "perm_phone_msg",
+        "unicode": "e9b9"
+    },
+    {
+        "name": "perm_scan_wifi",
+        "className": "perm_scan_wifi",
+        "unicode": "e9ba"
+    },
+    {
+        "name": "pets",
+        "className": "pets",
+        "unicode": "e9bb"
+    },
+    {
+        "name": "picture_in_picture",
+        "className": "picture_in_picture",
+        "unicode": "e9bc"
+    },
+    {
+        "name": "picture_in_picture_alt",
+        "className": "picture_in_picture_alt",
+        "unicode": "e9bd"
+    },
+    {
+        "name": "plagiarism",
+        "className": "plagiarism",
+        "unicode": "e9be"
+    },
+    {
+        "name": "play_for_work",
+        "className": "play_for_work",
+        "unicode": "e9bf"
+    },
+    {
+        "name": "polymer",
+        "className": "polymer",
+        "unicode": "e9c0"
+    },
+    {
+        "name": "power_settings_new",
+        "className": "power_settings_new",
+        "unicode": "e9c1"
+    },
+    {
+        "name": "pregnant_woman",
+        "className": "pregnant_woman",
+        "unicode": "e9c2"
+    },
+    {
+        "name": "preview",
+        "className": "preview",
+        "unicode": "e9c3"
+    },
+    {
+        "name": "print",
+        "className": "print",
+        "unicode": "e9c4"
+    },
+    {
+        "name": "privacy_tip",
+        "className": "privacy_tip",
+        "unicode": "e9c5"
+    },
+    {
+        "name": "published_with_changes",
+        "className": "published_with_changes",
+        "unicode": "e9c6"
+    },
+    {
+        "name": "query_builder",
+        "className": "query_builder",
+        "unicode": "e9c7"
+    },
+    {
+        "name": "question_answer",
+        "className": "question_answer",
+        "unicode": "e9c8"
+    },
+    {
+        "name": "quickreply",
+        "className": "quickreply",
+        "unicode": "e9c9"
+    },
+    {
+        "name": "receipt",
+        "className": "receipt",
+        "unicode": "e9ca"
+    },
+    {
+        "name": "record_voice_over",
+        "className": "record_voice_over",
+        "unicode": "e9cb"
+    },
+    {
+        "name": "redeem",
+        "className": "redeem",
+        "unicode": "e9cc"
+    },
+    {
+        "name": "remove_shopping_cart",
+        "className": "remove_shopping_cart",
+        "unicode": "e9cd"
+    },
+    {
+        "name": "reorder",
+        "className": "reorder",
+        "unicode": "e9ce"
+    },
+    {
+        "name": "report_problem",
+        "className": "report_problem",
+        "unicode": "e9cf"
+    },
+    {
+        "name": "request_page",
+        "className": "request_page",
+        "unicode": "e9d0"
+    },
+    {
+        "name": "restore",
+        "className": "restore",
+        "unicode": "e9d1"
+    },
+    {
+        "name": "restore_from_trash",
+        "className": "restore_from_trash",
+        "unicode": "e9d2"
+    },
+    {
+        "name": "restore_page",
+        "className": "restore_page",
+        "unicode": "e9d3"
+    },
+    {
+        "name": "room",
+        "className": "room",
+        "unicode": "e9d4"
+    },
+    {
+        "name": "rounded_corner",
+        "className": "rounded_corner",
+        "unicode": "e9d5"
+    },
+    {
+        "name": "rowing",
+        "className": "rowing",
+        "unicode": "e9d6"
+    },
+    {
+        "name": "rule",
+        "className": "rule",
+        "unicode": "e9d7"
+    },
+    {
+        "name": "schedule",
+        "className": "schedule",
+        "unicode": "e9d8"
+    },
+    {
+        "name": "search",
+        "className": "search",
+        "unicode": "e9d9"
+    },
+    {
+        "name": "search_off",
+        "className": "search_off",
+        "unicode": "e9da"
+    },
+    {
+        "name": "settings",
+        "className": "settings",
+        "unicode": "e9db"
+    },
+    {
+        "name": "settings_applications",
+        "className": "settings_applications",
+        "unicode": "e9dc"
+    },
+    {
+        "name": "settings_backup_restore",
+        "className": "settings_backup_restore",
+        "unicode": "e9dd"
+    },
+    {
+        "name": "settings_bluetooth",
+        "className": "settings_bluetooth",
+        "unicode": "e9de"
+    },
+    {
+        "name": "settings_brightness",
+        "className": "settings_brightness",
+        "unicode": "e9df"
+    },
+    {
+        "name": "settings_cell",
+        "className": "settings_cell",
+        "unicode": "e9e0"
+    },
+    {
+        "name": "settings_ethernet",
+        "className": "settings_ethernet",
+        "unicode": "e9e1"
+    },
+    {
+        "name": "settings_input_antenna",
+        "className": "settings_input_antenna",
+        "unicode": "e9e2"
+    },
+    {
+        "name": "settings_input_component",
+        "className": "settings_input_component",
+        "unicode": "e9e3"
+    },
+    {
+        "name": "settings_input_composite",
+        "className": "settings_input_composite",
+        "unicode": "e9e4"
+    },
+    {
+        "name": "settings_input_hdmi",
+        "className": "settings_input_hdmi",
+        "unicode": "e9e5"
+    },
+    {
+        "name": "settings_input_svideo",
+        "className": "settings_input_svideo",
+        "unicode": "e9e6"
+    },
+    {
+        "name": "settings_overscan",
+        "className": "settings_overscan",
+        "unicode": "e9e7"
+    },
+    {
+        "name": "settings_phone",
+        "className": "settings_phone",
+        "unicode": "e9e8"
+    },
+    {
+        "name": "settings_power",
+        "className": "settings_power",
+        "unicode": "e9e9"
+    },
+    {
+        "name": "settings_remote",
+        "className": "settings_remote",
+        "unicode": "e9ea"
+    },
+    {
+        "name": "settings_voice",
+        "className": "settings_voice",
+        "unicode": "e9eb"
+    },
+    {
+        "name": "shop",
+        "className": "shop",
+        "unicode": "e9ec"
+    },
+    {
+        "name": "shopping_bag",
+        "className": "shopping_bag",
+        "unicode": "e9ed"
+    },
+    {
+        "name": "shopping_basket",
+        "className": "shopping_basket",
+        "unicode": "e9ee"
+    },
+    {
+        "name": "shopping_cart",
+        "className": "shopping_cart",
+        "unicode": "e9ef"
+    },
+    {
+        "name": "shop_two",
+        "className": "shop_two",
+        "unicode": "e9f0"
+    },
+    {
+        "name": "smart_button",
+        "className": "smart_button",
+        "unicode": "e9f1"
+    },
+    {
+        "name": "source",
+        "className": "source",
+        "unicode": "e9f2"
+    },
+    {
+        "name": "speaker_notes",
+        "className": "speaker_notes",
+        "unicode": "e9f3"
+    },
+    {
+        "name": "speaker_notes_off",
+        "className": "speaker_notes_off",
+        "unicode": "e9f4"
+    },
+    {
+        "name": "spellcheck",
+        "className": "spellcheck",
+        "unicode": "e9f5"
+    },
+    {
+        "name": "stars",
+        "className": "stars",
+        "unicode": "e9f6"
+    },
+    {
+        "name": "star_rate",
+        "className": "star_rate",
+        "unicode": "e9f7"
+    },
+    {
+        "name": "sticky_note_2",
+        "className": "sticky_note_2",
+        "unicode": "e9f8"
+    },
+    {
+        "name": "store",
+        "className": "store",
+        "unicode": "e9f9"
+    },
+    {
+        "name": "subject",
+        "className": "subject",
+        "unicode": "e9fa"
+    },
+    {
+        "name": "subtitles_off",
+        "className": "subtitles_off",
+        "unicode": "e9fb"
+    },
+    {
+        "name": "supervised_user_circle",
+        "className": "supervised_user_circle",
+        "unicode": "e9fc"
+    },
+    {
+        "name": "supervisor_account",
+        "className": "supervisor_account",
+        "unicode": "e9fd"
+    },
+    {
+        "name": "support",
+        "className": "support",
+        "unicode": "e9fe"
+    },
+    {
+        "name": "swap_horiz",
+        "className": "swap_horiz",
+        "unicode": "e9ff"
+    },
+    {
+        "name": "swap_horizontal_circle",
+        "className": "swap_horizontal_circle",
+        "unicode": "ea00"
+    },
+    {
+        "name": "swap_vert",
+        "className": "swap_vert",
+        "unicode": "ea01"
+    },
+    {
+        "name": "swap_vertical_circle",
+        "className": "swap_vertical_circle",
+        "unicode": "ea02"
+    },
+    {
+        "name": "sync_alt",
+        "className": "sync_alt",
+        "unicode": "ea03"
+    },
+    {
+        "name": "system_update_alt",
+        "className": "system_update_alt",
+        "unicode": "ea04"
+    },
+    {
+        "name": "tab",
+        "className": "tab",
+        "unicode": "ea05"
+    },
+    {
+        "name": "table_view",
+        "className": "table_view",
+        "unicode": "ea06"
+    },
+    {
+        "name": "tab_unselected",
+        "className": "tab_unselected",
+        "unicode": "ea07"
+    },
+    {
+        "name": "text_rotate_up",
+        "className": "text_rotate_up",
+        "unicode": "ea08"
+    },
+    {
+        "name": "text_rotate_vertical",
+        "className": "text_rotate_vertical",
+        "unicode": "ea09"
+    },
+    {
+        "name": "text_rotation_angledown",
+        "className": "text_rotation_angledown",
+        "unicode": "ea0a"
+    },
+    {
+        "name": "text_rotation_angleup",
+        "className": "text_rotation_angleup",
+        "unicode": "ea0b"
+    },
+    {
+        "name": "text_rotation_down",
+        "className": "text_rotation_down",
+        "unicode": "ea0c"
+    },
+    {
+        "name": "text_rotation_none",
+        "className": "text_rotation_none",
+        "unicode": "ea0d"
+    },
+    {
+        "name": "theaters",
+        "className": "theaters",
+        "unicode": "ea0e"
+    },
+    {
+        "name": "thumbs_up_down",
+        "className": "thumbs_up_down",
+        "unicode": "ea0f"
+    },
+    {
+        "name": "thumb_down",
+        "className": "thumb_down",
+        "unicode": "ea10"
+    },
+    {
+        "name": "thumb_up",
+        "className": "thumb_up",
+        "unicode": "ea11"
+    },
+    {
+        "name": "timeline",
+        "className": "timeline",
+        "unicode": "ea12"
+    },
+    {
+        "name": "toc",
+        "className": "toc",
+        "unicode": "ea13"
+    },
+    {
+        "name": "today",
+        "className": "today",
+        "unicode": "ea14"
+    },
+    {
+        "name": "toll",
+        "className": "toll",
+        "unicode": "ea15"
+    },
+    {
+        "name": "touch_app",
+        "className": "touch_app",
+        "unicode": "ea16"
+    },
+    {
+        "name": "tour",
+        "className": "tour",
+        "unicode": "ea17"
+    },
+    {
+        "name": "track_changes",
+        "className": "track_changes",
+        "unicode": "ea18"
+    },
+    {
+        "name": "translate",
+        "className": "translate",
+        "unicode": "ea19"
+    },
+    {
+        "name": "trending_down",
+        "className": "trending_down",
+        "unicode": "ea1a"
+    },
+    {
+        "name": "trending_flat",
+        "className": "trending_flat",
+        "unicode": "ea1b"
+    },
+    {
+        "name": "trending_up",
+        "className": "trending_up",
+        "unicode": "ea1c"
+    },
+    {
+        "name": "turned_in",
+        "className": "turned_in",
+        "unicode": "ea1d"
+    },
+    {
+        "name": "turned_in_not",
+        "className": "turned_in_not",
+        "unicode": "ea1e"
+    },
+    {
+        "name": "unpublished",
+        "className": "unpublished",
+        "unicode": "ea1f"
+    },
+    {
+        "name": "update",
+        "className": "update",
+        "unicode": "ea20"
+    },
+    {
+        "name": "upgrade",
+        "className": "upgrade",
+        "unicode": "ea21"
+    },
+    {
+        "name": "verified",
+        "className": "verified",
+        "unicode": "ea22"
+    },
+    {
+        "name": "verified_user",
+        "className": "verified_user",
+        "unicode": "ea23"
+    },
+    {
+        "name": "vertical_split",
+        "className": "vertical_split",
+        "unicode": "ea24"
+    },
+    {
+        "name": "view_agenda",
+        "className": "view_agenda",
+        "unicode": "ea25"
+    },
+    {
+        "name": "view_array",
+        "className": "view_array",
+        "unicode": "ea26"
+    },
+    {
+        "name": "view_carousel",
+        "className": "view_carousel",
+        "unicode": "ea27"
+    },
+    {
+        "name": "view_column",
+        "className": "view_column",
+        "unicode": "ea28"
+    },
+    {
+        "name": "view_day",
+        "className": "view_day",
+        "unicode": "ea29"
+    },
+    {
+        "name": "view_headline",
+        "className": "view_headline",
+        "unicode": "ea2a"
+    },
+    {
+        "name": "view_list",
+        "className": "view_list",
+        "unicode": "ea2b"
+    },
+    {
+        "name": "view_module",
+        "className": "view_module",
+        "unicode": "ea2c"
+    },
+    {
+        "name": "view_quilt",
+        "className": "view_quilt",
+        "unicode": "ea2d"
+    },
+    {
+        "name": "view_sidebar",
+        "className": "view_sidebar",
+        "unicode": "ea2e"
+    },
+    {
+        "name": "view_stream",
+        "className": "view_stream",
+        "unicode": "ea2f"
+    },
+    {
+        "name": "view_week",
+        "className": "view_week",
+        "unicode": "ea30"
+    },
+    {
+        "name": "visibility",
+        "className": "visibility",
+        "unicode": "ea31"
+    },
+    {
+        "name": "visibility_off",
+        "className": "visibility_off",
+        "unicode": "ea32"
+    },
+    {
+        "name": "voice_over_off",
+        "className": "voice_over_off",
+        "unicode": "ea33"
+    },
+    {
+        "name": "watch_later",
+        "className": "watch_later",
+        "unicode": "ea34"
+    },
+    {
+        "name": "wifi_protected_setup",
+        "className": "wifi_protected_setup",
+        "unicode": "ea35"
+    },
+    {
+        "name": "work",
+        "className": "work",
+        "unicode": "ea36"
+    },
+    {
+        "name": "work_off",
+        "className": "work_off",
+        "unicode": "ea37"
+    },
+    {
+        "name": "work_outline",
+        "className": "work_outline",
+        "unicode": "ea38"
+    },
+    {
+        "name": "wysiwyg",
+        "className": "wysiwyg",
+        "unicode": "ea39"
+    },
+    {
+        "name": "youtube_searched_for",
+        "className": "youtube_searched_for",
+        "unicode": "ea3a"
+    },
+    {
+        "name": "zoom_in",
+        "className": "zoom_in",
+        "unicode": "ea3b"
+    },
+    {
+        "name": "zoom_out",
+        "className": "zoom_out",
+        "unicode": "ea3c"
+    }
+]
