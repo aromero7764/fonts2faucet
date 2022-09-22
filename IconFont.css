@@ -1,8 +1,8 @@
 @font-face {
     font-family: "tfaucet";
-    src: url('https://cdn.jsdelivr.net/gh/aromero7764/fonts2faucet@master/IconFont.woff2?t=1663889041822') format('woff2'),
-        url('https://cdn.jsdelivr.net/gh/aromero7764/fonts2faucet@master/IconFont.woff?t=1663889041822') format('woff'),
-        url('https://cdn.jsdelivr.net/gh/aromero7764/fonts2faucet@master/IconFont.ttf?t=1663889041822') format('truetype');
+    src: url('https://cdn.jsdelivr.net/gh/aromero7764/fonts2faucet@1.0.0/IconFont.woff2?t=1663889041822') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/aromero7764/fonts2faucet@1.0.0/IconFont.woff?t=1663889041822') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/aromero7764/fonts2faucet@1.0.0/IconFont.ttf?t=1663889041822') format('truetype');
 }
 
 .iconfont {
